@@ -1,4 +1,4 @@
-# VOICE
+# Variables Of Inequities in Clinical Evidence (VOICE)
 Operationalisation of the VOICE Flowchart
 
 ## Shiny point-and-click app
